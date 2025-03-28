@@ -1,4 +1,44 @@
-# dailyJournal
+# Journal of the day:
+
+## March 28, 2025
+
+# Met with Linda on our team meetings
+
+## March 27, 2025:
+
+# 1. Landing Page (Home)
+
+Navbar (Logo, Search Bar, Login/Signup)
+
+Map Component (Google Maps/OpenStreetMap with camera markers)
+
+Search Bar (Input field with filters for location, road name, etc.)
+
+List of Popular Cameras (Cards with preview images)
+
+# 2. Camera Selection Page
+
+Sidebar or Filter Panel (Dropdowns for area selection)
+
+Camera List (Grid/List view with small previews and names)
+
+Pagination or Infinite Scroll (For smooth navigation)
+
+# 3. Traffic Snapshot Page
+
+Large Image Viewer (Latest camera screenshot)
+
+Timestamp & Location Info (When & where the image was taken)
+
+Bookmark Button (Save favorite cameras)
+
+Share Button (Copy link or share to social media)
+
+# 4. User Dashboard (Optional)
+
+Saved Cameras Section (List of bookmarked cameras)
+
+Recent Views (History of viewed snapshots)
 
 ### Mar 19 - 2025 --------
 
@@ -52,7 +92,7 @@ Then, tie your portfolio to your learning journey. How does it reflect what you'
 
 ### 5. Future Improvements & Next Steps (30 seconds)
 
-End your presentation by looking forward. Your portfolio is a living document—where do you see yourself improving it? M |aybe you want to refine the UI, add a blog, improve accessibility, or explore new frameworks. Share your vision for how your portfolio will evolve as you continue learning and building experience.
+End your presentation by looking forward. Your +? M |aybe you want to refine the UI, add a blog, improve accessibility, or explore new frameworks. Share your vision for how your portfolio will evolve as you continue learning and building experience.
 
 - Features you want to add
 - Technologies you want to explore
